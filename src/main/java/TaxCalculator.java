@@ -3,7 +3,6 @@
  * Copyright 2021 Deirdre Gruman-Walsh
  */
 import java.util.Scanner;
-import java.lang.Math;
 
 public class TaxCalculator {
     public static void main(String[] args) {
